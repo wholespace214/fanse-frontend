@@ -12,7 +12,7 @@
     "@fanse-work/vue-record": "git+https://github.com/fanse-work/bio-voice-vue-record-fix.git#fix/safari",
     "@stripe/stripe-js": "^1.25.0",
     "@vue/composition-api": "^1.7.0",
-    "axios": "^0.22.0",
+    "axios": "^0.27.2",
     "bootstrap": "^4.6.0",
     "bootstrap-icons": "^1.7.2",
     "bootstrap-vue": "^2.21.2",
